@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Slide14_EPAPFCSum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Well_ID": "3415Janitell", "SDate": "2018\/11\/27", "Result": 0.0185 }, "geometry": { "type": "Point", "coordinates": [ -104.786966700008364, 38.783422200003642 ] } },
+{ "type": "Feature", "properties": { "Well_ID": "808PondTerrace", "SDate": "2019\/08\/27", "Result": 0.041 }, "geometry": { "type": "Point", "coordinates": [ -104.697222222206591, 38.691388888876205 ] } },
+{ "type": "Feature", "properties": { "Well_ID": "BECSMW13", "SDate": "2019\/02\/13", "Result": 107.54 }, "geometry": { "type": "Point", "coordinates": [ -104.760108246607118, 38.67503458758258 ] } },
+{ "type": "Feature", "properties": { "Well_ID": "PFCGWWell_70", "SDate": "2016\/08\/12", "Result": 0.295 }, "geometry": { "type": "Point", "coordinates": [ -104.72557439878932, 38.729525641451453 ] } }
+]
+}

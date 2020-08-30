@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Slide9_FountainCreekGnL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Losing Reach" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -104.795167982102626, 38.802882229407039 ], [ -104.76870117252956, 38.769920362391979 ] ] ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Gaining Reach" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -104.76870117252956, 38.769920362391979 ], [ -104.7311838997622, 38.725438202710407 ] ] ] } }
+]
+}

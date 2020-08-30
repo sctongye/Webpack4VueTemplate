@@ -1,151 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2d1e696-c330-4c3f-88a7-fad34529d997" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/node_modules/" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c2d1e696-c330-4c3f-88a7-fad34529d997" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/chinageo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/ngs.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/rules.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/shu.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/the.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/world.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/adm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/avtar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/headerbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/pass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VIndex.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VLogin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VMap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VSideBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VBeijing.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VChengdu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VGuangzhou.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VLast.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VLhasa.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VOverview.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VSanya.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VShanghai.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VUrumqi.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/test-stylus.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1562">
-              <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/styles/style.css" />
-        <option value="$PROJECT_DIR$/src/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/src/assets/css/test-stylus.styl" />
-        <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/postcss.config.js" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/app.vue" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="41" />
-    <option name="y" value="-2" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+  <component name="ProjectId" id="1WgGaIJBhwKrio70k8i04K9m4fE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python/django/NGSWebsite/templates/neos_template" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Dropbox\htdocs\vue\todo\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Dropbox\htdocs\vue\todo\src\assets\data" />
-      <recent name="C:\Dropbox\htdocs\vue\todo\src" />
-      <recent name="C:\Dropbox\htdocs\vue\todo\src\assets\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\img" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\data" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\components\slides" />
+      <recent name="C:\Dropbox\htdocs\vue\storymapv3\dist\static\img" />
       <recent name="C:\Dropbox\htdocs\vue\todo" />
-      <recent name="C:\Dropbox\htdocs\vue\todo\src\assets" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\data" />
+      <recent name="D:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\img" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\data" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\img" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\components\slides" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -160,113 +116,136 @@
       <workItem from="1566939605810" duration="11738000" />
       <workItem from="1566953704332" duration="88000" />
       <workItem from="1566954001059" duration="2080000" />
+      <workItem from="1567056531179" duration="2052000" />
+      <workItem from="1567130600983" duration="661000" />
+      <workItem from="1567354215173" duration="47000" />
+      <workItem from="1567355553401" duration="2053000" />
+      <workItem from="1567613703864" duration="1834000" />
+      <workItem from="1567618121611" duration="72000" />
+      <workItem from="1568843946238" duration="611000" />
+      <workItem from="1568858732767" duration="35000" />
+      <workItem from="1568999640663" duration="108000" />
+      <workItem from="1571416789652" duration="599000" />
+      <workItem from="1573227845091" duration="1047000" />
+      <workItem from="1573229261195" duration="504000" />
+      <workItem from="1573229840262" duration="7852000" />
+      <workItem from="1573238216072" duration="2000" />
+      <workItem from="1573243330668" duration="10971000" />
+      <workItem from="1573592879979" duration="1231000" />
+      <workItem from="1573675292534" duration="7243000" />
+      <workItem from="1573797361297" duration="5909000" />
+      <workItem from="1574183651689" duration="78000" />
+      <workItem from="1574183783249" duration="506000" />
+      <workItem from="1574194200802" duration="5477000" />
+      <workItem from="1574200467066" duration="838000" />
+      <workItem from="1574212081584" duration="3822000" />
+      <workItem from="1574217910278" duration="35000" />
+      <workItem from="1574283717344" duration="1035000" />
+      <workItem from="1574570450539" duration="4359000" />
+      <workItem from="1574580944415" duration="12324000" />
+      <workItem from="1574630385567" duration="4065000" />
+      <workItem from="1574635142316" duration="2950000" />
+      <workItem from="1574704440705" duration="65000" />
+      <workItem from="1575005540366" duration="15714000" />
+      <workItem from="1575065165567" duration="3292000" />
+      <workItem from="1575363826563" duration="6263000" />
+      <workItem from="1575595925329" duration="599000" />
+      <workItem from="1575941030612" duration="7830000" />
+      <workItem from="1576071772541" duration="3764000" />
+      <workItem from="1576158059717" duration="78000" />
+      <workItem from="1576158170802" duration="3797000" />
+      <workItem from="1576418107416" duration="3375000" />
+      <workItem from="1576476271873" duration="14204000" />
+      <workItem from="1576998626867" duration="7968000" />
+      <workItem from="1577035952353" duration="13557000" />
+      <workItem from="1577118796148" duration="858000" />
+      <workItem from="1577174134696" duration="4893000" />
+      <workItem from="1577216918788" duration="1886000" />
+      <workItem from="1577303235883" duration="1595000" />
+      <workItem from="1577454042252" duration="19812000" />
+      <workItem from="1577639797525" duration="596000" />
+      <workItem from="1577713895983" duration="17186000" />
+      <workItem from="1577806752388" duration="7910000" />
+      <workItem from="1577893361059" duration="1847000" />
+      <workItem from="1577987418032" duration="217000" />
+      <workItem from="1578018248709" duration="4966000" />
+      <workItem from="1578066684828" duration="25000" />
+      <workItem from="1578076748043" duration="1049000" />
+      <workItem from="1578081047986" duration="827000" />
+      <workItem from="1578118412029" duration="1307000" />
+      <workItem from="1578451763255" duration="3048000" />
+      <workItem from="1578457889841" duration="12145000" />
+      <workItem from="1578472616430" duration="4537000" />
+      <workItem from="1578505968783" duration="28066000" />
+      <workItem from="1578613513320" duration="2374000" />
+      <workItem from="1579122990735" duration="22629000" />
+      <workItem from="1579183478605" duration="513000" />
+      <workItem from="1579184040357" duration="9207000" />
+      <workItem from="1579563888864" duration="25000" />
+      <workItem from="1579576040912" duration="39000" />
+      <workItem from="1579576091878" duration="651000" />
+      <workItem from="1579624425286" duration="16745000" />
+      <workItem from="1579716718702" duration="788000" />
+      <workItem from="1579751305943" duration="703000" />
+      <workItem from="1579798991042" duration="12051000" />
+      <workItem from="1579874731132" duration="3675000" />
+      <workItem from="1579931701399" duration="1333000" />
+      <workItem from="1580072593560" duration="201000" />
+      <workItem from="1580072821227" duration="7000" />
+      <workItem from="1580073564256" duration="43000" />
+      <workItem from="1580145973270" duration="24000" />
+      <workItem from="1581009133176" duration="622000" />
+      <workItem from="1581098095728" duration="3500000" />
+      <workItem from="1581214025606" duration="8000" />
+      <workItem from="1581217674844" duration="847000" />
+      <workItem from="1589823430323" duration="48000" />
+      <workItem from="1589824863941" duration="17000" />
+      <workItem from="1589825661452" duration="3885000" />
+      <workItem from="1589998455627" duration="1151000" />
+      <workItem from="1590126754404" duration="683000" />
+      <workItem from="1590129800690" duration="2771000" />
+      <workItem from="1590564892195" duration="66000" />
+      <workItem from="1590593507650" duration="880000" />
+      <workItem from="1590778126543" duration="3590000" />
+      <workItem from="1591057574513" duration="54000" />
+      <workItem from="1591062887788" duration="3000" />
+      <workItem from="1591063033833" duration="26000" />
+      <workItem from="1592864463235" duration="3529000" />
+      <workItem from="1592933001022" duration="20659000" />
+      <workItem from="1592962525209" duration="1816000" />
+      <workItem from="1592967072813" duration="1400000" />
+      <workItem from="1592982876000" duration="2586000" />
+      <workItem from="1593025117045" duration="1207000" />
+      <workItem from="1593103852209" duration="774000" />
+      <workItem from="1593111105326" duration="752000" />
+      <workItem from="1593478535047" duration="184000" />
+      <workItem from="1593488948778" duration="134000" />
+      <workItem from="1593489093578" duration="73000" />
+      <workItem from="1594322757350" duration="1515000" />
+      <workItem from="1594499488581" duration="96000" />
+      <workItem from="1597820613345" duration="653000" />
+      <workItem from="1598066389096" duration="52000" />
+      <workItem from="1598281907033" duration="671000" />
+      <workItem from="1598300170498" duration="6000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13906000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32928178" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32928178" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/3fb9727f4dcb350533404103808ca4a9.jpg" />
-    <entry file="file://$PROJECT_DIR$/dist/dog-aaa.png" />
-    <entry file="file://$PROJECT_DIR$/dist/bg-aaa.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/assets/css/test-stylus.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/dist/main.bundle.js" />
-    <entry file="file://$PROJECT_DIR$/src/assets/data/fang.geojson">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/postcss.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1562">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2371" y="717" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598066438924">
+      <screen x="2048" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2371" y="717" width="424" height="484" key="FileChooserDialogImpl/3128.352.1920.1080/2048.0.1080.1920/0.768.2048.1152@2048.0.1080.1920" timestamp="1598066438924" />
+    <state x="2084" y="594" key="SettingsEditor" timestamp="1593489083354">
+      <screen x="2048" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2084" y="594" key="SettingsEditor/3128.352.1920.1080/2048.0.1080.1920/0.768.2048.1152@2048.0.1080.1920" timestamp="1593489083354" />
   </component>
 </project>

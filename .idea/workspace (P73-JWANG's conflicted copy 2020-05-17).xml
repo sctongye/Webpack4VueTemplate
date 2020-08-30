@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2d1e696-c330-4c3f-88a7-fad34529d997" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/chinageo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/ngs.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/rules.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/shu.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/the.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data/world.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/adm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/avtar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/headerbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/pass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VIndex.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VLogin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VMap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VSideBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VBeijing.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VChengdu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VGuangzhou.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VLast.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VLhasa.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VOverview.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VSanya.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VShanghai.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slides/VUrumqi.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/test-stylus.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/VLogin.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/VMap.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>signin</find>
+      <find>button</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2048" />
+    <option name="y" value="717" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectId" id="1WgGaIJBhwKrio70k8i04K9m4fE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="storymap_Peterson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="storymap_Peterson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="storymap_Peterson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="storymap_Peterson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="storymap_Peterson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="storymap_Peterson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="storymap_Peterson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="storymap_Peterson" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="I:/编程书/FileRecv" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Dropbox\htdocs\vue\todo\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\img" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\data" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\components\slides" />
+      <recent name="C:\Dropbox\htdocs\vue\storymapv3\dist\static\img" />
+      <recent name="C:\Dropbox\htdocs\vue\todo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\data" />
+      <recent name="F:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\img" />
+      <recent name="D:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\data" />
+      <recent name="D:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\img" />
+      <recent name="C:\Dropbox\htdocs\vue\storymap_Peterson\src\assets\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d1e696-c330-4c3f-88a7-fad34529d997" name="Default Changelist" comment="" />
+      <created>1566939598039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566939598039</updated>
+      <workItem from="1566939605810" duration="11738000" />
+      <workItem from="1566953704332" duration="88000" />
+      <workItem from="1566954001059" duration="2080000" />
+      <workItem from="1567056531179" duration="2052000" />
+      <workItem from="1567130600983" duration="661000" />
+      <workItem from="1567354215173" duration="47000" />
+      <workItem from="1567355553401" duration="2053000" />
+      <workItem from="1567613703864" duration="1834000" />
+      <workItem from="1567618121611" duration="72000" />
+      <workItem from="1568843946238" duration="611000" />
+      <workItem from="1568858732767" duration="35000" />
+      <workItem from="1568999640663" duration="108000" />
+      <workItem from="1571416789652" duration="599000" />
+      <workItem from="1573227845091" duration="1047000" />
+      <workItem from="1573229261195" duration="504000" />
+      <workItem from="1573229840262" duration="7852000" />
+      <workItem from="1573238216072" duration="2000" />
+      <workItem from="1573243330668" duration="10971000" />
+      <workItem from="1573592879979" duration="1231000" />
+      <workItem from="1573675292534" duration="7243000" />
+      <workItem from="1573797361297" duration="5909000" />
+      <workItem from="1574183651689" duration="78000" />
+      <workItem from="1574183783249" duration="506000" />
+      <workItem from="1574194200802" duration="5477000" />
+      <workItem from="1574200467066" duration="838000" />
+      <workItem from="1574212081584" duration="3822000" />
+      <workItem from="1574217910278" duration="35000" />
+      <workItem from="1574283717344" duration="1035000" />
+      <workItem from="1574570450539" duration="4359000" />
+      <workItem from="1574580944415" duration="12324000" />
+      <workItem from="1574630385567" duration="4065000" />
+      <workItem from="1574635142316" duration="2950000" />
+      <workItem from="1574704440705" duration="65000" />
+      <workItem from="1575005540366" duration="15714000" />
+      <workItem from="1575065165567" duration="3292000" />
+      <workItem from="1575363826563" duration="6263000" />
+      <workItem from="1575595925329" duration="599000" />
+      <workItem from="1575941030612" duration="7830000" />
+      <workItem from="1576071772541" duration="3764000" />
+      <workItem from="1576158059717" duration="78000" />
+      <workItem from="1576158170802" duration="3797000" />
+      <workItem from="1576418107416" duration="3375000" />
+      <workItem from="1576476271873" duration="14204000" />
+      <workItem from="1576998626867" duration="7968000" />
+      <workItem from="1577035952353" duration="13557000" />
+      <workItem from="1577118796148" duration="858000" />
+      <workItem from="1577174134696" duration="4893000" />
+      <workItem from="1577216918788" duration="1886000" />
+      <workItem from="1577303235883" duration="1595000" />
+      <workItem from="1577454042252" duration="19812000" />
+      <workItem from="1577639797525" duration="596000" />
+      <workItem from="1577713895983" duration="17186000" />
+      <workItem from="1577806752388" duration="7910000" />
+      <workItem from="1577893361059" duration="1847000" />
+      <workItem from="1577987418032" duration="217000" />
+      <workItem from="1578018248709" duration="4966000" />
+      <workItem from="1578066684828" duration="25000" />
+      <workItem from="1578076748043" duration="1049000" />
+      <workItem from="1578081047986" duration="827000" />
+      <workItem from="1578118412029" duration="1307000" />
+      <workItem from="1578451763255" duration="3048000" />
+      <workItem from="1578457889841" duration="12145000" />
+      <workItem from="1578472616430" duration="4537000" />
+      <workItem from="1578505968783" duration="28066000" />
+      <workItem from="1578613513320" duration="2374000" />
+      <workItem from="1579122990735" duration="22629000" />
+      <workItem from="1579183478605" duration="513000" />
+      <workItem from="1579184040357" duration="9207000" />
+      <workItem from="1579563888864" duration="25000" />
+      <workItem from="1579576040912" duration="39000" />
+      <workItem from="1579576091878" duration="651000" />
+      <workItem from="1579624425286" duration="16745000" />
+      <workItem from="1579716718702" duration="788000" />
+      <workItem from="1579751305943" duration="703000" />
+      <workItem from="1579798991042" duration="12051000" />
+      <workItem from="1579874731132" duration="3675000" />
+      <workItem from="1579931701399" duration="1333000" />
+      <workItem from="1580072593560" duration="201000" />
+      <workItem from="1580072821227" duration="7000" />
+      <workItem from="1580073564256" duration="43000" />
+      <workItem from="1580145973270" duration="24000" />
+      <workItem from="1581009133176" duration="622000" />
+      <workItem from="1581098095728" duration="3500000" />
+      <workItem from="1581214025606" duration="8000" />
+      <workItem from="1581217674844" duration="847000" />
+      <workItem from="1581742599774" duration="829000" />
+      <workItem from="1581743554533" duration="972000" />
+      <workItem from="1581723007451" duration="1115000" />
+      <workItem from="1581993694493" duration="2362000" />
+      <workItem from="1584993624881" duration="602000" />
+      <workItem from="1586052000083" duration="11000" />
+      <workItem from="1586507604153" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2048" y="717" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/VMap.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/VLogin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.13020833" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

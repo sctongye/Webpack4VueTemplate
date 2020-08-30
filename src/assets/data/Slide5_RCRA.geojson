@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Slide5_RCRA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Site_No_": "COR000225292", "Site_Name": "BNSF" }, "geometry": { "type": "Point", "coordinates": [ -104.85205, 39.007 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD981540966", "Site_Name": "BROADMOOR HOTEL CLEANERS" }, "geometry": { "type": "Point", "coordinates": [ -104.85205, 38.79284 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD980958219", "Site_Name": "COUTURE'S FABRIC CARE" }, "geometry": { "type": "Point", "coordinates": [ -104.775352, 38.90434 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD980958227", "Site_Name": "COUTURE'S FABRIC CARE" }, "geometry": { "type": "Point", "coordinates": [ -104.761549, 38.890643 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COR000216044", "Site_Name": "DAISY CLEANERS (ONE HOUR DAISY CLEANERS)" }, "geometry": { "type": "Point", "coordinates": [ -104.74675, 38.897796 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD048126726", "Site_Name": "EAGLE PICHER TECHNOLOGIES LLC" }, "geometry": { "type": "Point", "coordinates": [ -104.73895, 38.7759 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "CO0000024844", "Site_Name": "GALAXY CLEANERS" }, "geometry": { "type": "Point", "coordinates": [ -104.700248, 38.83897 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD981540735", "Site_Name": "GOLF ACRES LAUNDRY" }, "geometry": { "type": "Point", "coordinates": [ -104.802635, 38.85496 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD041099086", "Site_Name": "HEWLETT-PACKARD (COLORADO SPRINGS)" }, "geometry": { "type": "Point", "coordinates": [ -104.862281, 38.896702 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD982593220", "Site_Name": "LONDON CLEANERS" }, "geometry": { "type": "Point", "coordinates": [ -104.816783, 38.775741 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD048745657", "Site_Name": "MAGELLAN PIPELINE COMPANY LP" }, "geometry": { "type": "Point", "coordinates": [ -104.703252, 38.667388 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD982589608", "Site_Name": "PUEBLO CLEANING CORP" }, "geometry": { "type": "Point", "coordinates": [ -104.78036, 38.80646 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD082657420", "Site_Name": "SCHLAGE LOCK COMPANY LLC" }, "geometry": { "type": "Point", "coordinates": [ -104.73879, 38.77602 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "CO2210020150", "Site_Name": "US ARMY - FORT CARSON" }, "geometry": { "type": "Point", "coordinates": [ -104.75, 38.75 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD980635841", "Site_Name": "WEATHERFORD ALS LLC" }, "geometry": { "type": "Point", "coordinates": [ -104.67775, 38.879969 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD980957690", "Site_Name": "WHITE CLEANERS" }, "geometry": { "type": "Point", "coordinates": [ -104.777735, 38.905293 ] } },
+{ "type": "Feature", "properties": { "Site_No_": "COD980957526", "Site_Name": "YORK CLEANERS LLC" }, "geometry": { "type": "Point", "coordinates": [ -104.794515, 38.930535 ] } }
+]
+}

@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "Slide6_SEPFCSum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LOC_ID": "CFTA-SD01", "SDate": "2018\/12\/13", "Result": 0.99, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.881129076567532, 38.973563258040762 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "FS3-SB02", "SDate": "2018\/09\/21", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.81386691055738, 38.967217139645911 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "FS3-SD01", "SDate": "2018\/12\/13", "Result": 3.6, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.812540370864554, 38.967638593397346 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-006", "SDate": "2016\/11\/06", "Result": 4.3, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.694473185964213, 38.813431721024529 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-013", "SDate": "2016\/11\/06", "Result": 370.74, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.694942657434368, 38.811894249323771 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-015", "SDate": "2017\/12\/05", "Result": 0.72, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.700043094330994, 38.819287320516807 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-024", "SDate": "2020\/04\/01", "Result": 0.43, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.699265025893936, 38.819233911839518 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-025", "SDate": "2020\/04\/01", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.694324941410059, 38.814072563844341 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-026", "SDate": "2020\/04\/01", "Result": 8.2, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.694639786302147, 38.81114112792374 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-027", "SDate": "2020\/04\/01", "Result": 3.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.695179264194678, 38.811832740206398 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-028", "SDate": "2020\/04\/01", "Result": 0.47, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.695213703733444, 38.811949697717935 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-032", "SDate": "2020\/04\/02", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.708855204193313, 38.822665965664953 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-032<2mm", "SDate": "2020\/04\/02", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.708855204193313, 38.822665965664953 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-033", "SDate": "2020\/04\/01", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.710331800847754, 38.823823432049174 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER04-033<2mm", "SDate": "2020\/04\/02", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.710331800847754, 38.823823432049174 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER-OUTFALL1", "SDate": "2019\/10\/11", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.711765109588924, 38.831632156599781 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER-OUTFALL2", "SDate": "2019\/10\/11", "Result": 0.61, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.713458596704413, 38.83011291220236 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "PETER-OUTFALL3", "SDate": "2019\/10\/11", "Result": 0.98, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.717612695739959, 38.823843389336879 ] } },
+{ "type": "Feature", "properties": { "LOC_ID": "WWTP\/NPR1-SD01", "SDate": "2018\/09\/21", "Result": 0.0, "Lab_Flag": "no flag" }, "geometry": { "type": "Point", "coordinates": [ -104.830172922871441, 38.983042859370343 ] } }
+]
+}

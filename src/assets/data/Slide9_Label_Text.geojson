@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Slide9_Label_Text",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2232" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "X": -104.78148264399999, "Y": 38.787427540400003, "Name": "LosingReach" }, "geometry": { "type": "Point", "coordinates": [ 3204804.91840255074203, 1348286.704107636585832 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "X": -104.748833334, "Y": 38.748210840500001, "Name": "Gaining Reach" }, "geometry": { "type": "Point", "coordinates": [ 3214229.10586762893945, 1334080.07863813219592 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Slide9_Label_Triangles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 1 }, "geometry": { "type": "Point", "coordinates": [ -104.752,  38.819 ] } },
+{ "type": "Feature", "properties": { "Id": 2 }, "geometry": { "type": "Point", "coordinates": [ -104.714, 38.801 ] } },
+{ "type": "Feature", "properties": { "Id": 3 }, "geometry": { "type": "Point", "coordinates": [ -104.685, 38.8 ] } },
+{ "type": "Feature", "properties": { "Id": 4 }, "geometry": { "type": "Point", "coordinates": [ -104.735, 38.78 ] } }
+]
+}

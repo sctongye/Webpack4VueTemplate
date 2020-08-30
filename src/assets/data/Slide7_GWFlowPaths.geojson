@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Slide7_GWFlowPaths",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -104.74350510783114, 38.763238980149765 ], [ -104.734459348871326, 38.779672108926604 ] ] ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -104.753907730634864, 38.837564966269156 ], [ -104.75134476559623, 38.818870397752278 ] ] ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -104.714257153861183, 38.817362771259127 ], [ -104.714106391211828, 38.800025066586102 ] ] ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -104.664203954283778, 38.8001758292354 ], [ -104.685009199891283, 38.8001758292354 ] ] ] } }
+]
+}

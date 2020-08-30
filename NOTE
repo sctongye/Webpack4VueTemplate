@@ -1,0 +1,332 @@
+
+注意！！！！！！！！！！！！！
+Slide6的四个 Matrix 的 PFC Sum 都实质为 EPA_PFCSum
+！！！！！！！！！！！！！
+
+
+
+petersonstorymap
+guest
+Gust4V0
+
+"Lab_Flag": null
+"Lab_Flag": "no flag"
+
+
+
+
+
+C:\Dropbox\htdocs\vue\storymap_Peterson\dist
+
+Project Name
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+上传过程：
+
+
+
+styles.main
+img/head /static前加 /Peterson
+img/bg /static前加 /Peterson
+
+
+
+
+main js中
+
+
+/static/data/
+改
+/Peterson/static/data/
+117
+
+/static/img/
+改
+/Peterson/static/img/
+340
+
+img/log static/前加 Peterson/
+
+
+
+Index里有四处要加 /Peterson
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+
+
+
+
+
+       上线
+        <div v-if="this.$store.state.token">
+            <VIndex/>
+        </div>
+        <div v-else>
+            <VLogin/>
+        </div>
+
+
+
+
+
+
+
+【xxxxxx】 以 GeoJSON 文件名为主
+
+############################################################ 点
+
+
+function pop_【xxxxxx】(feature, layer) {
+    var popupContent = '<table>\
+<tr>\
+<td colspan="2"><b>LOCID: </b>' + feature.properties['LOC_ID'] + '<br><b> Result: </b>' + feature.properties['Result']+ ' ug/kg</td>\
+</tr>\
+</table>';
+    layer.bindPopup(popupContent, {maxHeight: 400});
+}
+
+function style_【xxxxxx】(feature) {
+
+    if (feature.properties['Result'] <= 0.8 ) {
+        return {
+            pane: 'pane_【xxxxxx】',
+            rotationAngle: 0.0,
+            rotationOrigin: 'center center',
+            icon: L.icon({
+                iconUrl: '/static/img/img_circle_1.png',
+                iconSize: [16, 16],
+                className: "layer_【xxxxxx】", //别忘了加进cleanalllayer要删除的数组
+            }),
+        }
+    }
+
+    if (feature.properties['Result'] > 0.8 && feature.properties['Result'] <= 7 ) {
+        return {
+            pane: 'pane_【xxxxxx】',
+            rotationAngle: 0.0,
+            rotationOrigin: 'center center',
+            icon: L.icon({
+                iconUrl: '/static/img/img_circle_2.png',
+                iconSize: [16, 16],
+                className: "layer_【xxxxxx】", //别忘了加进cleanalllayer要删除的数组
+            }),
+        }
+    }
+
+
+}
+
+map.createPane('pane_【xxxxxx】');
+map.getPane('pane_【xxxxxx】').style.zIndex = 421;
+map.getPane('pane_【xxxxxx】').style['mix-blend-mode'] = 'normal';
+
+function layer_【xxxxxx】_Info() { // 修改这里
+    return {
+        attribution: '<a href=""></a>',
+        pane: 'pane_【xxxxxx】',
+        onEachFeature: pop_【xxxxxx】,
+        pointToLayer: function (feature, latlng) {
+            var context = {
+                feature: feature,
+                variables: {}
+            };
+            return L.marker(latlng, style_【xxxxxx】(feature));
+        },
+    }
+}
+
+
+
+var layer_【xxxxxx】 = new L.GeoJSON.AJAX("/static/data/【xxxxxx】.geojson", layer_【xxxxxx】_Info());
+layer_【xxxxxx】.addTo(map);
+
+
+############################################################
+
+
+
+
+
+############################################################ 线(fillColor 调成0.0) 面  15个要替换
+
+function pop_【xxxxxx】(feature, layer) {
+    var popupContent = '<table>\
+<tr>\
+<td colspan="2"><b>' + feature.properties['Name'] + '</b></td>\
+</tr>\
+</table>';
+    layer.bindPopup(popupContent, {maxHeight: 400});
+}
+
+function style_【xxxxxx】() {
+    return {
+        pane: 'pane_【xxxxxx】',
+        opacity: 1,
+        color: 'rgba(82, 165, 237,1.0)',
+        dashArray: '',
+        lineCap: 'butt',
+        lineJoin: 'miter',
+        weight: 2.0,
+        fill: true,
+        fillOpacity: 1,
+        fillColor: 'rgba(82, 165, 237,0.8)',
+    }
+}
+
+map.createPane('pane_【xxxxxx】');
+map.getPane('pane_【xxxxxx】').style.zIndex = 401;
+map.getPane('pane_【xxxxxx】').style['mix-blend-mode'] = 'normal';
+
+function layer_【xxxxxx】_Info() {
+    return {
+        attribution: '<a href=""></a>',
+        pane: 'pane_【xxxxxx】',
+        onEachFeature: pop_【xxxxxx】,
+        style: style_【xxxxxx】,
+        className: "layer_【xxxxxx】",
+    }
+}
+
+
+var Layer_【xxxxxx】 = new L.GeoJSON.AJAX("/static/data/【xxxxxx】.geojson", layer_【xxxxxx】_Info());
+Layer_【xxxxxx】.addTo(map);
+
+
+
+
+
+
+
+
+
+$('#layer_【xxxxxx】CheckBox').prop('checked', true); // 进入这一页时让checkbox保持已选状态
+var layer_【xxxxxx】 = new L.GeoJSON.AJAX("/static/data/【xxxxxx】.geojson", layer_【xxxxxx】_Info());
+layer_【xxxxxx】.addTo(map);
+
+//cleanTheLayer("legend_【xxxxxx】");
+//Legend_【xxxxxx】.addTo(map);
+
+
+
+
+
+
+
+
+
+
+
+
+$('#layer_【xxxxxx】CheckBox').on("click", function () {
+    if (this.checked) {
+
+        var layer_【xxxxxx】 = new L.GeoJSON.AJAX("/static/data/【xxxxxx】.geojson", layer_【xxxxxx】_Info());
+
+        layer_【xxxxxx】.addTo(map);
+
+        //cleanTheLayer("legend_【xxxxxx】");
+        //Legend_【xxxxxx】.addTo(map);
+
+    } else {
+
+        cleanTheLayer("layer_【xxxxxx】");
+        //cleanTheLayer("legend_【xxxxxx】");
+
+
+    }
+})
+
+
+
+
+
+///////////////////////////////////////////////////////// Pin 加 popup里有图
+
+
+function pop_xxxxxxxxxxxx(feature, layer) {
+    var popupContent = '<table>\
+        <tr>\
+        <td colspan="2"><b>' + feature.properties['Name'] + '</b></td>\
+        </tr>\
+        </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+function style_xxxxxxxxxxxx(feature) {
+
+
+        return {
+            pane: 'pane_xxxxxxxxxxxx',
+            rotationAngle: 0.0,
+            rotationOrigin: 'center center',
+            icon: L.icon({
+                iconUrl: '/static/img/img_hotel.png',
+                iconSize: [45, 45],
+                className: "layer_xxxxxxxxxxxx", //别忘了加进cleanalllayer要删除的数组
+            }),
+        }
+}
+
+map.createPane('pane_xxxxxxxxxxxx');
+map.getPane('pane_xxxxxxxxxxxx').style.zIndex = 421;
+map.getPane('pane_xxxxxxxxxxxx').style['mix-blend-mode'] = 'normal';
+
+function layer_xxxxxxxxxxxx_Info() { // 修改这里
+    return {
+        attribution: '<a href=""></a>',
+        pane: 'pane_xxxxxxxxxxxx',
+        onEachFeature: pop_xxxxxxxxxxxx,
+        pointToLayer: function (feature, latlng) {
+            var context = {
+                feature: feature,
+                variables: {}
+            };
+            return L.marker(latlng, style_xxxxxxxxxxxx(feature));
+        },
+    }
+}
+
+
+
+
+///////////////////////////////////////////////////////////////
+加Label
+///////////////////////////////////////////////////////////////
+
+function style_textlabel_Bedrock_Contours() {
+
+        return {
+            opacity: 0,
+            rotationOrigin: 'center center',
+            icon: L.icon({
+                iconUrl: '/static/img/img_circle_1.png',
+                iconSize: [1, 1],
+                className: "layer_textlabel label_slide7_Bedrock_Contours", //别忘了加进cleanalllayer要删除的数组
+            }),
+        }
+}
+
+
+var marker1 = new L.marker([38.828, -104.674], style_textlabel_Bedrock_Contours()); //opacity may be set to zero
+var marker2 = new L.marker([38.81, -104.677], style_textlabel_Bedrock_Contours()); //opacity may be set to zero
+var marker3 = new L.marker([38.787, -104.688], style_textlabel_Bedrock_Contours()); //opacity may be set to zero
+var marker4 = new L.marker([38.765, -104.695], style_textlabel_Bedrock_Contours()); //opacity may be set to zero
+var marker5 = new L.marker([38.725, -104.682], style_textlabel_Bedrock_Contours()); //opacity may be set to zero
+
+
+marker1.bindTooltip("6200", {permanent: true, className: "map-text-label", offset: [0, 0] });
+marker2.bindTooltip("6140", {permanent: true, className: "map-text-label", offset: [0, 0] });
+marker3.bindTooltip("6000", {permanent: true, className: "map-text-label", offset: [0, 0] });
+marker4.bindTooltip("5840", {permanent: true, className: "map-text-label", offset: [0, 0] });
+marker5.bindTooltip("5720", {permanent: true, className: "map-text-label", offset: [0, 0] });
+
+marker1.addTo(map);
+marker2.addTo(map);
+marker3.addTo(map);
+marker4.addTo(map);
+marker5.addTo(map);
+
+
+
+cleanTheLayer("leaflet-tooltip");

@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Slide9_WWTPlant",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Las Vegas St WWTF" }, "geometry": { "type": "Point", "coordinates": [ -104.808302385448485, 38.813295255365894 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Widefield WSD" }, "geometry": { "type": "Point", "coordinates": [ -104.722905345862046, 38.721662413792721 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Security SD" }, "geometry": { "type": "Point", "coordinates": [ -104.738398362670026, 38.737339729219116 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Fountain Sanitation District WWTF" }, "geometry": { "type": "Point", "coordinates": [ -104.698952921235175, 38.661521137372752 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cherokee Metropolitan District" }, "geometry": { "type": "Point", "coordinates": [ -104.708645772963578, 38.837667125207098 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Clear Spring Regional WTF" }, "geometry": { "type": "Point", "coordinates": [ -104.702327718900861, 38.630101301026627 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "CSU JD Phillips Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.824546998683473, 38.894911343839716 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Upper Monument WWTF Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.852743961167292, 39.044161550073603 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Academy Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.794973567973301, 39.05132936386677 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Tri-Lakes Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.873411118233008, 39.071925028937699 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "USAFA Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.829760208075058, 38.984333483682221 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Paintbrush Hills Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.605552660812236, 38.924186028789222 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cherokee Metropolitan Dist. GW Recharge Facility" }, "geometry": { "type": "Point", "coordinates": [ -104.398925596775044, 38.736571821826196 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Cheyenne Mtn. Estates Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.820937904267836, 38.714447714262974 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Fort Carson Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.74633071470825, 38.72447062858101 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "LFMSDD Discharge" }, "geometry": { "type": "Point", "coordinates": [ -104.664299155892181, 38.619625767597384 ] } }
+]
+}
